@@ -48,7 +48,7 @@ This project will deliver actionable insights into customer behavior, claim tren
 
 ### Data Sources
 
-Airplane_Crashes_and_Fatalities dataset: The primary dataset used for this analysis is the "Car Insurance Policies.xlsx" file, containing detailed information about Airplane Crashes and Fatalities.
+Car Insurance Policies dataset: The primary dataset used for this analysis is the "Car Insurance Policies.xlsx" file, containing detailed information about Car Insurance Policies.
 
 ### Tools
 
