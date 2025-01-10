@@ -41,7 +41,9 @@ This project provides valuable insights for:
 
 This project will deliver actionable insights into customer behavior, claim trends, and demographic risk factors, enabling insurance companies to optimize their operations and improve customer satisfaction.
 
-![Dashboard]
+
+![Dashboard]![3 Car Insurance Policies](https://github.com/user-attachments/assets/3e15ee82-7b20-4a4c-bb32-9cbb4044022b)
+
 
 
 ### Data Sources
